@@ -1,10 +1,10 @@
 [build-system]
-requires = ["setuptools>=61.0", "wheel", "hy>=0.28.0"]
+requires = ["setuptools>=61.0", "wheel", "hy>=1.1.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "hy-structured-logging"
-version = "1.0.0"
+version = "1.0.1"
 description = "A structured logging package for Hy with JSON output support"
 readme = "README.md"
 requires-python = ">=3.7"
@@ -30,7 +30,7 @@ classifiers = [
     "Topic :: Software Development :: Libraries",
 ]
 dependencies = [
-    "hy>=0.28.0",
+    "hy>=1.1.0",
 ]
 
 [project.optional-dependencies]

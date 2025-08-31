@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/)
-[![Hy Version](https://img.shields.io/badge/hy-0.28.0%2B-green)](https://github.com/hylang/hy)
+[![Hy Version](https://img.shields.io/badge/hy-1.1.0%2B-green)](https://github.com/hylang/hy)
 
 A comprehensive structured logging package for [Hy](https://github.com/hylang/hy) that provides JSON-formatted logging with support for contexts, child loggers, decorators, and more. Perfect for building observable, debuggable applications in Lisp on the Python platform.
 
