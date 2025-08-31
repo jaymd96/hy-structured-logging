@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.7"
 license = {text = "MIT"}
 authors = [
-    {name = "Your Name", email = "your.email@example.com"}
+    {name = "Jay MD", email = "jaymd96@gmail.com"}
 ]
 keywords = ["logging", "structured-logging", "json", "hy", "lisp"]
 classifiers = [
@@ -46,9 +46,9 @@ db = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/hy-structured-logging"
-Repository = "https://github.com/yourusername/hy-structured-logging"
-Issues = "https://github.com/yourusername/hy-structured-logging/issues"
+Homepage = "https://github.com/jaymd96/hy-structured-logging"
+Repository = "https://github.com/jaymd96/hy-structured-logging"
+Issues = "https://github.com/jaymd96/hy-structured-logging/issues"
 
 [tool.setuptools]
 packages = ["hy_structured_logging", "hy_structured_logging.integrations"]
