@@ -1,0 +1,4 @@
+include README.md
+include LICENSE
+recursive-include hy_structured_logging *.hy
+recursive-include demo *.hy *.py
